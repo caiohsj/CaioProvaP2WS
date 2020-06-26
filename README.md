@@ -10,7 +10,7 @@
 * Acesse a url do seu servidor no caminho > /CaioProvaP2WS/ws/rest/
   * GET
   * POST
-  * Deve enviar ao corpo da requisição um objeto XML, semelhante a este:
+  * Deve enviar junto ao corpo da requisição um objeto XML, semelhante a este:
     <pessoa>
       <nome>Caio Henrique</nome>
       <peso>69</peso>
