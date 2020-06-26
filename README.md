@@ -2,7 +2,7 @@
 
 [![licence mit](https://img.shields.io/github/license/caiohsj/CaioProvaP2WS.svg)](https://github.com/caiohsj/CaioProvaP2WS/blob/master/LICENSE)
 
-> :rocket: Aplicação desenvolvida apenas para tangenciar conhecimentos a partir da proposta de avaliação da disciplina
+> :boom: Aplicação desenvolvida apenas para tangenciar conhecimentos a partir da proposta de avaliação da disciplina
 
 # Requisitos // Execução
 * Inicie seu servidor Apache Tomcat
