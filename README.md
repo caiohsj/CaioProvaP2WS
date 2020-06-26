@@ -11,11 +11,13 @@
   * GET
   * POST
   * Deve enviar junto ao corpo da requisição um objeto XML, semelhante a este:
+  ```
     <pessoa>
       <nome>Caio Henrique</nome>
       <peso>69</peso>
       <altura>1.75</altura>
     </pessoa>
+   ```
 
 ## License
 [MIT License](https://github.com/caiohsj/CaioProvaP2WS/blob/master/LICENSE) © [Caio]()
