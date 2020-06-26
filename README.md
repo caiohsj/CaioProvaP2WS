@@ -5,7 +5,7 @@
 > :boom: Aplicação desenvolvida apenas para tangenciar conhecimentos a partir da proposta de avaliação da disciplina
 
 # Requisitos // Execução
-* Inicie seu servidor Apache Tomcat
+* Inicie seu servidor Apache Tomcat ou qualquer outro de sua preferência
 * Faça o deploy do arquivo .war no diretório /dist
 * Acesse a url do seu servidor no caminho > /CaioProvaP2WS/ws/rest/
   * GET
